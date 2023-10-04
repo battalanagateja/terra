@@ -1,0 +1,13 @@
+variable region {}
+variable vpc_cidr {}
+variable project_name {}
+variable public1_cidr {}
+variable public2_cidr {}
+variable private1_cidr {}
+variable private2_cidr {}
+variable availability_zone1 {}
+variable availability_zone2 {}
+variable ami {}
+variable instance-type {}
+variable sub_rds1 {}
+variable sub_rds2 {}
